@@ -162,13 +162,4 @@ npm run preview
 - **Vercel**: Zero-configuration deployment
 - **Netlify**: Automated deployments with Git
 
-## Support
 
-For support, please:
-- Check the [issues](https://github.com/yourusername/futureblink/issues) page
-- Join our Discord community
-- Contact the development team
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
